@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1>Ngai-wang · Andrew · Leung</h1>
+
+A developer who aspires to be a **computer full-stack engineer** but is currently a **front-end engineer**.
 <!--
 **SokuRitszZ/SokuRitszZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
